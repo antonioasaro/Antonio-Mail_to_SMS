@@ -38,7 +38,7 @@ void request_mail_to_sms() {
     static char url[256];
 
 ///////////  personalize this part  ///////////
-    strcpy(url, "http://###################.net/mail_to_sms.php?cmd=send");
+    strcpy(url, "http://shadowsmile72@gmail.net/mail_to_sms.php?cmd=send");
 ///////////////////////////////////////////////
 
     strcpy(who, "&who="); strcat(who, who_list[who_sel]); 
