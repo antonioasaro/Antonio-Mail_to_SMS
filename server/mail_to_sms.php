@@ -10,8 +10,8 @@
   $msg = $_GET['msg'];
   
 ///////////  personalize this part  ///////////
-  $sub = "Hold 416-###-#### to reply";
-  $frm = "416#######@sms.yourcarrier.com";
+  $sub = "Hold 562-457-7144 to reply";
+  $frm = "5624577144@txt.att.com";
 ///////////////////////////////////////////////
   $hdr = "From: ".$frm;
 
